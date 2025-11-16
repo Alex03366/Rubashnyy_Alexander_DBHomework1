@@ -5,9 +5,7 @@
 - Данные о клиентах, продуктах и транзакциях
 
 ## Файлы:
-- `scripts/create_tables.sql` - создание таблиц
-- `scripts/insert_data.sql` - заполнение данными  
-- `documentation/normalization_description.md` - описание нормализации
+- Рубашный_Александр.sql - код
 - `screenshots/` - скриншоты из DBeaver
 
 ## Результаты:
